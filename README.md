@@ -1,5 +1,5 @@
 # MERU
-This code is for the semi-supervised learning method in paper [https://ieeexplore.ieee.org/abstract/document/9921323].
+This code is for the semi-supervised learning method in [paper](https://ieeexplore.ieee.org/abstract/document/9921323).
 
 # Usage
 
