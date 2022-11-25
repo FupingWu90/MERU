@@ -9,7 +9,8 @@ The code in file 'ACDC2017/MERU' is the training and testing script with five-fo
 For reproduction, please set your own datapath:
 --datapath : set your ACDC '--datapath' argument in ACDC2017/MERU/Sup_main.py 
 
-
+## to do
+Codes of compared methods (such as Co-Training, mean-teacher) with the same framework would be released in the future.....
 
 
 
